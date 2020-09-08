@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-08T04:09:29.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="MM73N84uybc71mAxITF2" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-08T04:09:43.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="sLonq7N3-B8m734lFzOb" version="13.6.6" type="github">
   <diagram id="kpB2jAior2TSRvHw8qS1" name="Page-1">
     <mxGraphModel dx="1186" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="rBxdCo87SNWFGNvR9_Ml-8" value="HMD-framework disables MDIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rBxdCo87SNWFGNvR9_Ml-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="rBxdCo87SNWFGNvR9_Ml-9" target="rBxdCo87SNWFGNvR9_Ml-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rBxdCo87SNWFGNvR9_Ml-9" value="HMD-framework enables MDIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
